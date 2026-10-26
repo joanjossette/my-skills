@@ -1,0 +1,11 @@
+# Patient data — never commit SAP Masterlists, encounter exports, or generated reports
+*.pdf
+*.csv
+*.xlsx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
